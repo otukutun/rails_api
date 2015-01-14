@@ -44,9 +44,7 @@ group :development, :test do
 end
 
 
-gem 'devise'
-gem 'grape'
-gem 'grape-jbuilder'
+gem 'sorcery'
 gem 'mysql2'
 gem 'settingslogic'
 gem 'draper', github: 'drapergem/draper'
